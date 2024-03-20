@@ -110,6 +110,7 @@ class logine extends StatelessWidget {
 
             SizedBox(
               height: 30,
+
             ),
 
             GestureDetector(
